@@ -1,5 +1,6 @@
 <h1>Hi, I'm Raphael! <br/><a>Programmer</a>, <a">Game Developer</a>, <a>Student</a></h1>
 
+
 <h2>🎮 Game Projects:</h2>
 
 - [Nightmare Slayer](https://knifeuine.itch.io/nightmare-slayer)
@@ -12,6 +13,7 @@
 - [Introduction to Software Engineering](https://google.com)
 - [Algorithms and Data Structures](https://google.com)
 - [Introduction to Programming](https://google.com)
+
 
 <h2> 🤳 Socials:</h2>
 
