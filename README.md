@@ -3,10 +3,10 @@
 
 <h2>🎮 Game Projects:</h2>
 
-- [Nightmare Slayer](https://knifeuine.itch.io/nightmare-slayer)
-- [Factory Shift](https://knifeuine.itch.io/factory-shift)
-- [Together At Last](https://imnotplasma.itch.io/together-at-last)
-- [Wake Up](https://alexstarzengruber.itch.io/wake-up)
+- [Nightmare Slayer](https://knifeuine.itch.io/nightmare-slayer) (Metroidvania)
+- [Factory Shift](https://knifeuine.itch.io/factory-shift) (Factory Arcade)
+- [Together At Last](https://imnotplasma.itch.io/together-at-last) (Puzzle Plattform Multiplayer)
+- [Wake Up](https://alexstarzengruber.itch.io/wake-up) (Horror Puzzle)
 
 <h2>👨‍💻 Software Development Projects (from University):</h2>
 
