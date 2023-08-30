@@ -10,9 +10,9 @@
 
 <h2>👨‍💻 Software Development Projects (from University):</h2>
 
-- [Introduction to Software Engineering](https://google.com)
-- [Algorithms and Data Structures](https://google.com)
-- [Introduction to Programming](https://google.com)
+- [Introduction to Software Engineering](https://github.com/raphael-frank/EIST)
+- [Algorithms and Data Structures](https://github.com/raphael-frank/GAD)
+- [Introduction to Programming](https://github.com/raphael-frank/PGDP)
 
 
 <h2> 🤳 Socials:</h2>
