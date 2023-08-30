@@ -17,7 +17,7 @@
 
 <h2> 🤳 Socials:</h2>
 
-[linkedin](https://www.linkedin.com/in/raphael-frank-3a2bb4266/)
+[linkedin](https://www.linkedin.com/in/raphael-frank/)
 
 <!--
 **raphael-frank/raphael-frank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
