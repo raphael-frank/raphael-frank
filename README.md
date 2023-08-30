@@ -10,7 +10,7 @@
 
 <h2>👨‍💻 Software Development Projects (from University):</h2>
 
-- [Introduction to Software Engineering](https://github.com/raphael-frank/EIST)
+- [Software Engineering](https://github.com/raphael-frank/EIST)
 - [Algorithms and Data Structures](https://github.com/raphael-frank/GAD)
 - [Introduction to Programming](https://github.com/raphael-frank/PGDP)
 
