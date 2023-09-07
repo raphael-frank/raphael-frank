@@ -3,10 +3,10 @@
 
 <h2>🎮 Game Projects:</h2>
 
-- [Nightmare Slayer](https://knifeuine.itch.io/nightmare-slayer) (Metroidvania)
-- [Factory Shift](https://knifeuine.itch.io/factory-shift) (Factory Arcade)
-- [Together At Last](https://imnotplasma.itch.io/together-at-last) (Puzzle Plattform Multiplayer)
-- [Wake Up](https://alexstarzengruber.itch.io/wake-up) (Horror Puzzle)
+- [Nightmare Slayer](https://github.com/raphael-frank/NightmareSlayer) (Mar 2023)
+- [Factory Shift](https://github.com/raphael-frank/FactoryShift) (Jun 2023)
+- [Together At Last](https://github.com/raphael-frank/TogetherAtLast) (Dec 2022 - Feb 2023)
+- [Wake Up](https://github.com/raphael-frank/WakeUp) (Dec 2022)
 
 <h2>👨‍💻 Software Development Projects (from University):</h2>
 
