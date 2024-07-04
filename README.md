@@ -1,6 +1,3 @@
-<h1>Hi, I'm Raphael! <br/><a>Programmer</a>, <a">Game Developer</a>, <a>Student</a></h1>
-
-
 <h2>🎮 Game Projects:</h2>
 
 - [Nightmare Slayer](https://github.com/raphael-frank/NightmareSlayer) (Mar 2023)
